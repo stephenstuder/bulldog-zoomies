@@ -1,0 +1,22 @@
+.wrapper {
+	background: url(https://drive.google.com/uc?export=view&id=1aN3ATAgwV3APjFXZg4cAUg7jHH-GaupV);
+	background-size: 100vw;
+	background-size:     cover;                      
+  background-repeat:   no-repeat;
+  background-position: center center; 
+}
+.text{
+	color: red;
+	font-size:25px;
+	font-weight: bold;
+	font-family: verdana;
+}
+.bulldog {
+      position: relative;
+      --x: 0;
+      --y: 0;
+      --rotateX: 0;
+      --rotate: 0;
+      transform: translateX(var(--x)) translateY(var(--y)) rotateY(var(--rotateX)) rotate(var(--rotate));
+      transition: transform 0.2s;
+    }
