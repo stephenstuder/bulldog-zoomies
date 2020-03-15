@@ -1,2 +1,2 @@
 # bulldog-zoomies
-![Pure CSS Hamburger](/csshamburger.gif)
+![Bulldog Zoomies](/bulldog-zoomies.gif)
